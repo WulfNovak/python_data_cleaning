@@ -1,7 +1,7 @@
 # Description of Contents:
 ___
-### wikipedia_data_clean:
-- Simple and brief data cleaning practice.
+### wiki_scrape_data_clean:
+- Simple and brief data cleaning practice on wikipedia data.
 
 ### alz_health_data_clean:
 - Alzheimers Disease and Health Aging data is clean
