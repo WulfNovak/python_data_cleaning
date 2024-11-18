@@ -4,8 +4,8 @@ ___
 - Simple and brief data cleaning practice on wikipedia data.
 
 ### alz_health_data_clean:
-- Alzheimers Disease and Health Aging data is clean
-  - Sought to better understand the study
+- Alzheimers Disease and Health Aging data 
+  - Analyzed data, creating question and stratum level statistics
 - Created functions to analyze variables of interest
 - Created functions to analyze missing data
   - output analysis of missing data 
